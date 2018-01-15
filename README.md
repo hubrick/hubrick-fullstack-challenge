@@ -20,7 +20,7 @@ request for how to update a report is in [data/update_ticket_request.json](data/
 
 # Instructions
 - Please don't spend more than 3 hours. We don't expect a production-ready solution.
-- Choose whatever tech you are comfortable with and that lets you achieve a solution in the given time limit.
+- Choose whatever frameworks you are comfortable with and that lets you achieve a solution in the given time limit. But we do prefer Java on the server side of things. 
 - Provide the solution source code either as zip or as a link to the code repository
 
 # What we're looking for:
